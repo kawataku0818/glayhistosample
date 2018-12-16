@@ -1,0 +1,11 @@
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\bin\Debug\グレイヒストグラムサンプル.exe.config
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\bin\Debug\グレイヒストグラムサンプル.exe
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\bin\Debug\グレイヒストグラムサンプル.pdb
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\obj\Debug\グレイヒストグラムサンプル.csprojAssemblyReference.cache
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\obj\Debug\グレイヒストグラムサンプル.Form1.resources
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\obj\Debug\グレイヒストグラムサンプル.Form2.resources
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\obj\Debug\グレイヒストグラムサンプル.Properties.Resources.resources
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\obj\Debug\グレイヒストグラムサンプル.csproj.GenerateResource.cache
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\obj\Debug\グレイヒストグラムサンプル.csproj.CoreCompileInputs.cache
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\obj\Debug\グレイヒストグラムサンプル.exe
+C:\Users\taxi\Desktop\グレイヒストグラムサンプル\グレイヒストグラムサンプル\obj\Debug\グレイヒストグラムサンプル.pdb
